@@ -1,0 +1,12 @@
+{
+  "name": "practice_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prod": "node test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

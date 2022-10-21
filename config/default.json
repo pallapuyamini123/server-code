@@ -1,0 +1,6 @@
+{
+    "dbConfig":{
+     "mongouri": "mongodb://vizagTeam:YEMD3gm68pJ7vrKKBhZC@13.58.237.142:27017/admin",
+     "db": "P1P2P3"
+    }
+ }
