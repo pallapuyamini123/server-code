@@ -14,8 +14,8 @@ const { db, mongouri } = config.get('dbConfig');
             console.log("................")
            // console.log(record);
             if (status === 200) {
-                var myquery = { username: "yamini" };
-                var newvalues = { $set: {username: "raj"} };
+                var myquery = { username: "raj" };
+                var newvalues = { $set: {username: "yamini"} };
                 await dbcon.collection("yamini_test").updateOne(myquery, newvalues)
         }
         else{
